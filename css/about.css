@@ -1,0 +1,181 @@
+/* Shared variables, base and navbar rules are provided in css/styles.css —
+   kept only page-specific overrides below to avoid duplication. */
+
+/* First section */
+
+.goose {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.goose-heroes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.goose-text {
+    display: flex;
+    margin-bottom: 100px;
+    font-size: 3rem;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.goose-heroes-boxes {
+    display: flex;
+    gap: 50px;
+}
+
+.glasses {
+    font-family: sans-serif;
+    font-weight: bolder;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    width: 300px;
+    height: 290px;
+    
+    background-color: #ffb4d3;
+    border-radius: 15px;
+}
+
+.glass-contact {
+    display: flex;
+    text-decoration: none;
+    color: #10151a;
+    margin-left: 200px;
+    margin-top: 0px;
+}
+
+
+.name-glasses {
+    font-size: 20px;
+    color: #10151a;
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    
+}
+
+.job-glasses {
+    color: #3f343f;
+    display: flex;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    
+}
+
+.glasses img {
+    border-radius: 40px;
+    align-self: center;
+    margin-top: 20px;
+}
+
+.asian {
+    font-family: sans-serif;
+    font-weight: bolder;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    width: 300px;
+    height: 290px;
+    
+    background-color: #ffb4d3;
+    border-radius: 15px;
+}
+
+.asian-contact {
+    display: flex;
+    text-decoration: none;
+    color: #10151a;
+    margin-left: 200px;
+    margin-top: 0px;
+}
+
+
+.name-asian {
+    font-size: 20px;
+    color: #10151a;
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    
+}
+
+.job-asian {
+    color: #3f343f;
+    display: flex;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    
+}
+
+.asian img {
+    border-radius: 40px;
+    align-self: center;
+    margin-top: 20px;
+}
+
+.orange-hoodie {
+    font-family: sans-serif;
+    font-weight: bolder;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    width: 300px;
+    height: 290px;
+    
+    background-color: #ffb4d3;
+    border-radius: 15px;
+}
+
+.orange-contact {
+    display: flex;
+    text-decoration: none;
+    color: #10151a;
+    margin-left: 200px;
+    margin-top: 0px;
+}
+
+
+.name-orange {
+    font-size: 20px;
+    color: #10151a;
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    
+}
+
+.job-orange {
+    color: #3f343f;
+    display: flex;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    
+}
+
+.orange-hoodie img {
+    border-radius: 40px;
+    align-self: center;
+    margin-top: 20px;
+}
+
+.goose {
+    margin-bottom: 300px;
+}

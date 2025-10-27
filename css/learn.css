@@ -1,0 +1,8 @@
+/* Shared variables, base and navbar rules are provided in css/styles.css —
+   learn.css now contains only learn-specific rules to avoid duplication. */
+
+/*  Goose first */
+
+.goose-section {
+    margin-bottom: 300px;
+}
